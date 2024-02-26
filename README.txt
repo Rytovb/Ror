@@ -5,17 +5,17 @@ Example config:
 {
     "groups": [
         {
-            "message": "message1",
-            "ids": [13422341, 123414231324, 34122142143, 309211785003]
+            "hi": "hi",
+            "ids": [13422341, 123414231324, 3422142143, 309211785003]
         },
         {
-            "message": "message2",
+            "hi": "hi",
             "ids": [13422341, 123414231324, 34122142143, 3092119]
         }
     ],
-    "email": "johndoe@johndoe.me",
-    "password": "s3cur3p@$$",
-    "default_message": "message3"
+    "email": "jaianashorter1@gmail.com",
+    "password": "jaiana090",
+    "hi": "hi"
 }
 
 With this config, the users with ids matching the ones in the first group will receive "message1",
